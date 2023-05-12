@@ -1,4 +1,4 @@
-# RMSTitanicAnalysis
+# RMS Titanic Analysis
 IMS Pro School Final Project Submission
 
 ## Problem Statement
